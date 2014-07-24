@@ -1,3 +1,8 @@
-# whichtimemachine
 
-Command line tool that gets data for making visualization of contributions to OSM. Pairs nicely with [sometimemachine](https://github.com/tmcw/sometimemachine).
+### intalar dependencias:
+
+- `npm install express --save`
+- `npm install express.io --save`
+
+- `npm install swig --save`
+libreria para los templates

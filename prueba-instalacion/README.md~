@@ -1,4 +1,4 @@
-#Pruebas e intalacion de algunos paquetes
+#Pruebas e instalacion de algunos paquetes
 
 ### Intalar dependencias:
  - npm install instala todos los paquetes que vamos  a necesitar en el proyecto, si en caso de que se tenga ya en  archivo package.json
