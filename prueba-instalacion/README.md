@@ -30,7 +30,7 @@ corremos un comando para saber donde se instalo `which node-inspector` y recibim
 
  libreria para produccion, 
 
-`npm install -g forever`
+`sudo npm install -g forever`
 
 
 luego ejecutamos lo siguiente:
